@@ -1,10 +1,13 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Simple robot app that automates package installation in python and javascript projects
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Few advantages that can come in handy after starting new project
+
+- Installs new packages thorugh bot
+- Verifies package instalation
 
 ## Getting started
 
